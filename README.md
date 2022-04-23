@@ -4,7 +4,7 @@ Hi 👋 My name is Adi Utama
 Full-Stack Developer
 --------------------
 
-* 🌍  I'm based in Indonesia
+* 🌍  I'm based in Yogyakarta, Indonesia
 * ✉️  You can contact me at [hi@adiutama.xyz](mailto:hi@adiutama.xyz)
 
 ### Skills
